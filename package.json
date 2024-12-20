@@ -13,10 +13,10 @@
   ],
   "files": [],
   "scripts": {
-    "build": "npm run build --workspaces",
-    "watch": "npm run watch --workspaces",
-    "publish-all": "npm publish --workspaces --access public",
-    "link-all": "npm link --workspaces"
+    "build": "pnpm run build --workspace-root",
+    "watch": "pnpm run watch --workspace-root",
+    "publish-all": "pnpm publish --workspace-root --access public",
+    "link-all": "npm link --workspace-root"
   },
   "dependencies": {
     "@modelcontextprotocol/server-everything": "*",

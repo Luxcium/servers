@@ -1,0 +1,13 @@
+{
+  "../../examples/mcp-servers": "../../examples/mcp-servers:yyK8LvSguDjotHvubHLk3RiXpcu7VNnE0Py6ZNXWOcg=:",
+  "/@modelcontextprotocol/server-brave-search@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-everart@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-everything@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-filesystem@0.6.2(zod@3.23.8)": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-gdrive@0.6.2(encoding@0.1.13)": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-memory@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-postgres@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-puppeteer@0.6.2(typescript@5.6.3)": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-sequential-thinking@0.6.2": "Missing shrinkwrap entry!",
+  "/@modelcontextprotocol/server-slack@0.6.2": "Missing shrinkwrap entry!"
+}
